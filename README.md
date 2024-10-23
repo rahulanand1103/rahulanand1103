@@ -2,7 +2,7 @@
 ### 🚀 About me
 I am <a href="https://www.linkedin.com/in/rahul-anand1103/">Rahul Anand</a>.I'm a Machine Learning Engineer passionate about AI, open-source, and problem-solving. 
 
-🔭 Open-Source Projects
+🔭 Open-Source Projects & Contribution
 * <a href="https://github.com/rahulanand1103/rag-citation">RAG Citation</a>: A Python package that enhances the credibility of AI-generated content by combining retrieval-augmented generation with automatic citation generation.
 * <a href="https://github.com/Andrew-Jang/RAGHub/commits/main/?author=rahulanand1103">RAGHub Contributor</a>: Contributed to RAGHub, a community-driven project cataloguing the rapid growth of tools and projects in the Retrieval-Augmented Generation (RAG) ecosystem.
 
