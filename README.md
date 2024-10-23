@@ -3,7 +3,7 @@
 I am <a href="https://www.linkedin.com/in/rahul-anand1103/">Rahul Anand</a>.I'm a Machine Learning Engineer passionate about AI, open-source, and problem-solving. 
 
 🔭 Open-Source Projects
-* RAG Citation: A Python package that enhances the credibility of AI-generated content by combining retrieval-augmented generation with automatic citation generation. It includes features like semantic search, hallucination detection, and flexible integration.
+* <a href="https://github.com/rahulanand1103/rag-citation">RAG Citation</a>: A Python package that enhances the credibility of AI-generated content by combining retrieval-augmented generation with automatic citation generation. It includes features like semantic search, hallucination detection, and flexible integration.
 
 
 ### Reach me via 👇
