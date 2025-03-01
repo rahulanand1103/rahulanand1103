@@ -1,6 +1,6 @@
 # 💫 About Me:
-👋 Hi, I'm Rahul Anand!<br><be>
-🚀 Machine Learning Engineer<br><be>
+👋 Hi, I'm <a href="https://www.linkedin.com/in/rahul-anand1103/">Rahul Anand!</a>.I'm a Machine Learning Engineer passionate about AI, open-source, and problem-solving. 
+
 
 🔭 Open-Source Projects & Contribution
 * <a href="https://github.com/rahulanand1103/rag-citation">RAG Citation</a>: A Python package that enhances the credibility of AI-generated content by combining retrieval-augmented generation with automatic citation generation.
