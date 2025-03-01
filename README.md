@@ -7,6 +7,23 @@
 * <a href="https://github.com/rahulanand1103/ytkit">ytkit</a>: ytkit fetches subtitles from YouTube channels, playlists, and search results in just a few lines of code — perfect for RAG, AI apps, and content analysis!
 * <a href="https://github.com/Andrew-Jang/RAGHub/commits/main/?author=rahulanand1103">RAGHub Contributor</a>: Contributed to RAGHub, a community-driven project cataloguing the rapid growth of tools and projects in the Retrieval-Augmented Generation (RAG) ecosystem.
 
+## ⚙️ Tech Stack  
+
+### 📌 Programming & Frameworks  
+🟡 `Python` 
+
+### 🤖 Machine Learning & Deep Learning  
+📊 `Scikit-Learn` 🧠 `TensorFlow` 🔥 `PyTorch`  
+🌀 `Transformers` 🤗 `Hugging Face` 🌱 `LLMs`  
+
+### 🛠️ MLOps & Infrastructure  
+⚙️ `Airflow` 🐳 `Docker` 📦 `MLflow` 🔗 `DVC`  
+🛢️ `Feature Store` 🌐 `Cloud Deployment`  
+
+### 📝 NLP & Generative AI  
+💬 `BERT` 🤖 `GPT` 🔍 `RAG` 🔗 `LangChain`  
+📝 `Text Augmentation` 🎯 `NER` 😊 `Sentiment Analysis`
+
 
 ## 🌐 Socials:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rahul-anand1103/)
