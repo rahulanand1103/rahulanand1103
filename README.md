@@ -12,17 +12,17 @@
 ### 📌 Programming & Frameworks  
 🟡 `Python` 
 
-### 🤖 Machine Learning & Deep Learning  
-📊 `Scikit-Learn` 🧠 `TensorFlow` 🔥 `PyTorch`  
-🌀 `Transformers` 🤗 `Hugging Face` 🌱 `LLMs`  
+### 🤖 Machine Learning, Deep Learning   & Generative AI  
+📊 `Scikit-Learn` 🔥 `PyTorch`  
+🌀 `Transformers` 🤗 `Hugging Face` 🌱 `LLMs`
+🤖 `GPT` 🔍 `RAG` 🔗 `LangChain` 🕸 `LangGraph`  
 
 ### 🛠️ MLOps & Infrastructure  
 ⚙️ `Airflow` 🐳 `Docker` 📦 `MLflow` 🔗 `DVC`  
-🛢️ `Feature Store` 🌐 `Cloud Deployment`  
+🛢️ `Feature Store`  
 
-### 📝 NLP & Generative AI  
-💬 `BERT` 🤖 `GPT` 🔍 `RAG` 🔗 `LangChain`  
-📝 `Text Augmentation` 🎯 `NER` 😊 `Sentiment Analysis`
+### 📝 NLP 
+  
 
 
 ## 🌐 Socials:
