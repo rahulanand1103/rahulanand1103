@@ -15,8 +15,9 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rahulanand1103&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=rahulanand1103&theme=midnight-purple&hide_border=false)<br/>
+| GitHub Stats | Streak Stats |
+|-------------|-------------|
+| ![](https://github-readme-stats.vercel.app/api?username=rahulanand1103&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true) | ![](https://nirzak-streak-stats.vercel.app/?user=rahulanand1103&theme=midnight-purple&hide_border=false) |
 
 
 ---
