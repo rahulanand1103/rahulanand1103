@@ -17,7 +17,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rahulanand1103&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=rahulanand1103&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulanand1103&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rahulanand1103&icon=2&color=1)](https://visitcount.itsvg.in)
