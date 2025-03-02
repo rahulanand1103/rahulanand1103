@@ -8,7 +8,7 @@
 * <a href="https://github.com/rahulanand1103/youtube-script-writer">YouTube-Script-Writer</a>: YouTube Script Writer is an open-source Multi-AI agent that generates tailored video scripts based on title, language, tone, and length. It streamlines research and writing, allowing creators to focus on delivering their content.
 * <a href="https://github.com/Andrew-Jang/RAGHub/commits/main/?author=rahulanand1103">RAGHub Contributor</a>: Contributed to RAGHub, a community-driven project cataloguing the rapid growth of tools and projects in the Retrieval-Augmented Generation (RAG) ecosystem.
 
-Resources
+
 
 
 ## ⚙️ Tech Stack  
