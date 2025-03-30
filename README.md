@@ -36,7 +36,7 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rahulanand1103&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true)|
+![](https://github-readme-stats.vercel.app/api?username=rahulanand1103&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true)
 
 
 ---
